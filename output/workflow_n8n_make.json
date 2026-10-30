@@ -1,0 +1,19 @@
+{
+  "nome": "relatorio-diario-pedidos",
+  "trigger": "cron 0 18 * * 1-5",
+  "passos": [
+    {
+      "app": "CSV/Drive",
+      "acao": "ler pedidos_dia.csv"
+    },
+    {
+      "app": "este script",
+      "acao": "python src/automacao.py"
+    },
+    {
+      "app": "Slack/Email",
+      "acao": "enviar output/relatorio_latest.md"
+    }
+  ],
+  "economia_horas_semana": 4.2
+}

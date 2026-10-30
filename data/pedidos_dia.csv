@@ -1,0 +1,21 @@
+pedido_id,restaurante,cidade,status,valor,taxa_entrega,tempo_min,cupom,avaliacao,created_at
+IF-20001,Burger Lab,São Paulo,entregue,64.90,6.99,34,NENHUM,5,2026-10-29T11:02:00
+IF-20002,Sushi House,São Paulo,entregue,118.00,0.00,41,FRETE0,4,2026-10-29T11:15:00
+IF-20003,Pizza Nova,Osasco,cancelado,89.50,8.50,0,NENHUM,,2026-10-29T11:20:00
+IF-20004,Green Bowl,São Paulo,entregue,42.00,5.99,28,DESC10,5,2026-10-29T11:33:00
+IF-20005,Burger Lab,Guarulhos,entregue,55.00,9.90,52,NENHUM,3,2026-10-29T11:48:00
+IF-20006,Pasta & Cia,São Paulo,entregue,73.20,6.99,37,NENHUM,4,2026-10-29T12:05:00
+IF-20007,Sushi House,São Paulo,entregue,95.00,0.00,39,FRETE0,5,2026-10-29T12:18:00
+IF-20008,Pizza Nova,Osasco,entregue,110.00,8.50,46,NENHUM,4,2026-10-29T12:40:00
+IF-20009,Green Bowl,São Paulo,cancelado,38.00,5.99,0,DESC10,,2026-10-29T12:55:00
+IF-20010,Burger Lab,São Paulo,entregue,71.40,6.99,31,NENHUM,5,2026-10-29T13:10:00
+IF-20011,Açaí Top,Guarulhos,entregue,29.90,7.50,25,NENHUM,5,2026-10-29T13:22:00
+IF-20012,Pasta & Cia,São Paulo,entregue,66.00,6.99,44,NENHUM,2,2026-10-29T13:40:00
+IF-20013,Burger Lab,Osasco,entregue,58.00,8.50,36,FRETE0,4,2026-10-29T14:01:00
+IF-20014,Sushi House,São Paulo,entregue,140.00,0.00,48,FRETE0,5,2026-10-29T14:20:00
+IF-20015,Pizza Nova,São Paulo,entregue,99.90,6.99,40,DESC10,4,2026-10-29T14:35:00
+IF-20016,Green Bowl,São Paulo,entregue,45.50,5.99,27,NENHUM,5,2026-10-29T15:00:00
+IF-20017,Burger Lab,Guarulhos,cancelado,62.00,9.90,0,NENHUM,,2026-10-29T15:12:00
+IF-20018,Açaí Top,São Paulo,entregue,34.90,6.99,22,NENHUM,5,2026-10-29T15:30:00
+IF-20019,Pasta & Cia,Osasco,entregue,80.00,8.50,50,NENHUM,3,2026-10-29T15:48:00
+IF-20020,Sushi House,São Paulo,entregue,125.00,0.00,43,FRETE0,4,2026-10-29T16:05:00

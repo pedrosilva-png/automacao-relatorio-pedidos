@@ -1,0 +1,55 @@
+{
+  "metricas": {
+    "total_pedidos": 20,
+    "entregues": 17,
+    "cancelados": 3,
+    "taxa_cancelamento_pct": 15.0,
+    "gmv": 1308.7,
+    "ticket_medio": 76.98,
+    "tempo_medio_min": 37.8,
+    "nps_proxy_media": 4.24,
+    "top_restaurantes": [
+      {
+        "restaurante": "Sushi House",
+        "gmv": 478.0
+      },
+      {
+        "restaurante": "Burger Lab",
+        "gmv": 249.3
+      },
+      {
+        "restaurante": "Pasta & Cia",
+        "gmv": 219.2
+      }
+    ],
+    "piores_avaliacoes": [
+      {
+        "pedido_id": "IF-20012",
+        "restaurante": "Pasta & Cia",
+        "avaliacao": 2.0,
+        "tempo_min": 44
+      },
+      {
+        "pedido_id": "IF-20005",
+        "restaurante": "Burger Lab",
+        "avaliacao": 3.0,
+        "tempo_min": 52
+      },
+      {
+        "pedido_id": "IF-20019",
+        "restaurante": "Pasta & Cia",
+        "avaliacao": 3.0,
+        "tempo_min": 50
+      }
+    ],
+    "alertas": [
+      "Taxa de cancelamento alta: 15.0%",
+      "4 entrega(s) com tempo ≥ 45 min",
+      "1 avaliação(ões) ≤ 2 — revisar qualidade"
+    ]
+  },
+  "segundos": 0.0178,
+  "minutos_manual_estimados": 50,
+  "economia_minutos": 50.0,
+  "insight": "Priorize hoje: Taxa de cancelamento alta: 15.0% GMV concentrado em Sushi House. Ticket médio R$ 76.98 com avaliação 4.24."
+}
